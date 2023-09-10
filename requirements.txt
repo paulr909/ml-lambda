@@ -3,3 +3,4 @@ pytest==7.4.2
 torch==2.0.1
 transformers==4.33.1
 xformers==0.0.21
+botocore~=1.31.44
